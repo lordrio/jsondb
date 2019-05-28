@@ -5,6 +5,38 @@
       "title": "hello"
     }
   ],
+  "sku_lists": [
+  	{
+  		"id": 1,
+  		"sku_id": "com.alchemistww.gem001",
+  		"price": "$1",
+  		"detail": "10 gems",
+  	},
+  	{
+  		"id": 2,
+  		"sku_id": "com.alchemistww.gem002",
+  		"price": "$2",
+  		"detail": "20 gems",
+  	},
+  	{
+  		"id": 3,
+  		"sku_id": "com.alchemistww.gem003",
+  		"price": "$5",
+  		"detail": "50 gems",
+  	},
+  	{
+  		"id": 4,
+  		"sku_id": "com.alchemistww.gem004",
+  		"price": "$10",
+  		"detail": "100 gems",
+  	},
+  	{
+  		"id": 5,
+  		"sku_id": "com.alchemistww.gem005",
+  		"price": "$100",
+  		"detail": "1000 gems",
+  	},
+  ],
   "profile": {
     "name": "typicode"
   }
