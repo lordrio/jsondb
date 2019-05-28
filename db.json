@@ -5,7 +5,7 @@
       "title": "hello"
     }
   ],
-  "sku_lists": [
+  "skus": [
   	{
   		"id": 1,
   		"sku_id": "com.alchemistww.gem001",
